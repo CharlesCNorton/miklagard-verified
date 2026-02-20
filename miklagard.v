@@ -5,7 +5,7 @@
 (*     Rus'-Byzantine treaty provisions (911, 944/945, 971) from the          *)
 (*     Primary Chronicle: merchant admissibility, charter and arms            *)
 (*     requirements, criminal reciprocity, Varangian Guard eras,              *)
-(*     polutasvarf, and route monotonicity. 14 theorems, 0 admits.            *)
+(*     polutasvarf, and route monotonicity.                                   *)
 (*                                                                            *)
 (*     "And Oleg hung his shield upon the gate, to show his victory."         *)
 (*     - Primary Chronicle, sub anno 907                                      *)
